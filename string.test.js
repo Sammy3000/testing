@@ -1,4 +1,4 @@
-const stringLength = require("./main");
+const stringLength = require("./stringLength");
 
 test("return 5 after passing hello parameter", () => {
   expect(stringLength("hello")).toBe(5);

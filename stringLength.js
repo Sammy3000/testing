@@ -5,4 +5,5 @@ function stringLength(string) {
     return "requirements for value input are not met";
   }
 }
+
 module.exports = stringLength;
